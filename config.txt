@@ -8,7 +8,7 @@
 
 # 公众号appSecret
 
-"app_secret": "wx12996d4269d81173",
+"app_secret": "9bd688647330cf06e2d9b790dd603dec",
 
 # 模板消息id
 
@@ -16,7 +16,7 @@
 
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 
-"user": ["9bd688647330cf06e2d9b790dd603dec"],
+"user": ["o7LFN5vLBez2Ig4CBDjDZMncRSNU"],
 
 # 信息配置
 
@@ -34,7 +34,7 @@
 
 # 生日2
 
-"birthday2": {"name": "羊咩咩爹地", "birthday": "2000-07-18"},
+"birthday2": {"name": "自己", "birthday": "2003-04-21"},
 
 # 在一起的日子，格式同上，暂不不支持农历
 
